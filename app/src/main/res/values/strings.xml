@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShotCountDownTimer</string>
+    <string name="total_time">totalTime</string>
+    <string name="twineight">88</string>
+    <string name="DS_DIGIB">DS-DIGIB</string>
+    <string name="thirty_s">30 seconds</string>
+    <string name="twenty_s">24 seconds</string>
+    <string name="fourteen_s">14 seconds</string>
+    <string name="twelve_s">12 seconds</string>
+    <string name="fourteen_s1">14 s</string>
+
+</resources>
